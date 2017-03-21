@@ -1,0 +1,13 @@
+{
+  "name": "link-apprenticeship-exercise",
+  "version": "1.0.0",
+  "description": "Link apprenticeship exercise for Nulogy",
+  "main": "app.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Qiongrong Jiang",
+  "devDependencies": {
+    "ava": "^0.18.2"
+  }
+}
