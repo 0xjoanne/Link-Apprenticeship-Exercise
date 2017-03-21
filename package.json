@@ -2,11 +2,16 @@
   "name": "link-apprenticeship-exercise",
   "version": "1.0.0",
   "description": "Link apprenticeship exercise for Nulogy",
-  "main": "app.js",
+  "main": "calculator.js",
   "scripts": {
     "test": "ava --verbose"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QiongrongJiang/Link-Apprenticeship-Exercise.git"
+  },
   "author": "Qiongrong Jiang",
+  "license": "MIT",
   "devDependencies": {
     "ava": "^0.18.2"
   }
