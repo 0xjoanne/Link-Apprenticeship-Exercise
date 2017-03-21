@@ -4,7 +4,7 @@
   "description": "Link apprenticeship exercise for Nulogy",
   "main": "app.js",
   "scripts": {
-    "test": "ava"
+    "test": "ava --verbose"
   },
   "author": "Qiongrong Jiang",
   "devDependencies": {
